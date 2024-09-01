@@ -1,1 +1,1 @@
-probably building an app ro smth
+probably building an app or smth
