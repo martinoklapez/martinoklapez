@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @martinoklapez
-- 👨🏻‍💻 I'm currently building deliverdesk.de
-- 🌱 I’m currently learning node.js & express.js
-- 💞️ I’m always recruting devs, designers & product managers for new ventures
+probably building an app ro smth
